@@ -9,8 +9,8 @@
 // The used connections and their final weight
 
 #include <iostream>
-#include <algorithm>
-#include <fstream>
+#include <algorithm> // to use sort
+#include <fstream> // to read the file
 using namespace std;
 
 // represents an edge in the graph
